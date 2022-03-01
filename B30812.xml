@@ -1,0 +1,371 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegiack tribute to the sacred dust of the reverend and worthy Mr. Seaborn Cotton pastour of the Church of Christ at Hampton in New-England: who was discharged from his work and office, to be admitted into heaven, April 20th, 1886.</title>
+            <author>Tompson, Edward, 1665-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B30812</idno>
+            <idno type="OCLC"> 80924634</idno>
+            <idno type="STC">Wing T1869</idno>
+            <idno type="STC">ESTC W15117</idno>
+            <idno type="EEBO-CITATION">80924634</idno>
+            <idno type="OCLC">ocm 80924634</idno>
+            <idno type="VID">192097</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B30812)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192097)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2899:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegiack tribute to the sacred dust of the reverend and worthy Mr. Seaborn Cotton pastour of the Church of Christ at Hampton in New-England: who was discharged from his work and office, to be admitted into heaven, April 20th, 1886.</title>
+                  <author>Tompson, Edward, 1665-1705.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Green,</publisher>
+                  <pubPlace>[Boston :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Edward Tompson.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: folded and mutilated with slight loss of text.</note>
+                  <note>Reproduction of original in the Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cotton, Seaborn, 1633-1686 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, American --  17th century.</term>
+               <term>Broadsides --  Massachusetts --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:192097:1" rendition="simple:additions"/>
+            <head>AN <hi>Elegiack Tribute</hi> to the Sacred Duſt of the Reverend and Worthy <hi>Mr.</hi> SEABORN COTTON <hi>Paſtour of the Church of Chriſt at</hi> HAMPTON <hi>in</hi> New-England: <hi>who was diſcharged</hi> from his <hi>Work</hi> and <hi>Office,</hi> to be admitted into <hi>Heaven,</hi> April 20th 1686.</head>
+            <lg>
+               <l>AMong the weeping wailing <hi>Mourners</hi> drove,</l>
+               <l>I come to ſhew my weakneſs, yet my <hi>love.</hi>
+               </l>
+               <l>I ſhan't I can't refrain when <hi>Grief</hi> bids ſpeak,</l>
+               <l>And Sorrow forces: I chooſe to ſeem <hi>weak</hi>
+               </l>
+               <l>Rather than ſtupid; and not for to ſhow</l>
+               <l>What he deſerves and what my Fancies ow</l>
+               <l>Unto his <hi>Horſe,</hi> which wants no <hi>Verſe,</hi> to whom</l>
+               <l>A <hi>Diapaſon</hi> of each <hi>Muſes</hi> Moan</l>
+               <l>Is a due Tribute. Yet Griefs paſſions ſpent</l>
+               <l>Are caſ'd when broach't, cured when they have vent.</l>
+               <l>If <hi>tears</hi> &amp; <hi>fears,</hi> or <hi>Moans</hi> &amp; <hi>Groans</hi> were verſe,</l>
+               <l>How <hi>would</hi> I, <hi>could</hi> I, <hi>ſhould</hi> I grace the Herſe</l>
+               <l>Of this vaſt ſoul; of which th' unworthy earth</l>
+               <l>Was ner'e ſo much as honour'd with the <hi>Birth.</hi>
+               </l>
+               <l>The grandeſt birth are <hi>Amphurite</hi> had:</l>
+               <l>To rock his Cradle <hi>Angels</hi> they were glad.</l>
+               <l>By <hi>Winds</hi> &amp; <hi>Waves,</hi> &amp; proſp'rous <hi>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>s</hi> before</l>
+               <l>Heav'n ſent by <hi>Sea</hi> this <hi>heav'n-born</hi> ſoul to <hi>ſhore</hi>
+               </l>
+               <l>Whoſe <hi>Worth</hi> who<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Works,</hi> whoſt <hi>Life</hi> and <hi>well-ſpent</hi> Dayes</l>
+               <l>I need to <hi>imitate</hi> but not to <hi>praiſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>I ever hated flatt'ring of the dead.</l>
+               <l>(Without all fraud) it may, <hi>muſt, ſhall</hi> be ſe'd</l>
+               <l>He was a <hi>Gemm, Joy, Jewel, Head</hi> and <hi>Hand,</hi>
+               </l>
+               <l>
+                  <hi>Light, Life, Stay, Staff,</hi> &amp; <hi>Oracle</hi> of our Land.</l>
+               <l>
+                  <hi>Hard</hi> things he <hi>eas'd, obſcure</hi> he <hi>brought to Sight,</hi>
+               </l>
+               <l>
+                  <hi>Feet</hi> to the <hi>lame</hi> he was: to Blind a <hi>Light.</hi>
+               </l>
+               <l>
+                  <hi>Ears'</hi> to the <hi>deaf. Strength</hi> to the <hi>feeble Knee.</hi>
+               </l>
+               <l>A <hi>Mouth</hi> to <hi>dumb.</hi> A Churches <hi>eye</hi> was hee.</l>
+               <l>
+                  <hi>Hands</hi> to the helpleſs ones. <hi>Stay</hi> to the <hi>Weak.</hi>
+               </l>
+               <l>The <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aint</hi> he <hi>cheer'd:</hi> to wicked <hi>ſwords</hi> he'd ſpeak.</l>
+               <l>An <hi>heart</hi> to heartleſs. A Souls guid, to <hi>keep</hi>
+               </l>
+               <l>And <hi>fright</hi> off <hi>wolves</hi> &amp; <hi>wicked</hi> from <hi>Chriſt</hi>'s ſheep.</l>
+               <l>He <hi>dr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v</hi> &amp; <hi>drove, woo'd, warn'd</hi> with all his might</l>
+               <l>Mens ſouls, by <hi>love,</hi> by <hi>fear,</hi> by <hi>force,</hi> by <hi>Fright.</hi>
+               </l>
+               <l>Never had Body ſuch a Soul within<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Vice-hater, and a Thunder-bolt to Sin?</l>
+               <l>Oh how he <hi>ſtudi'd, prea<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, teacht, practis'd</hi> too!</l>
+               <l>His <hi>w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rds, works, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ight</hi> &amp; <hi>life</hi> together grew.</l>
+               <l>A Mi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur and a Maſter-peice of Art.</l>
+               <l>His h<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> was full of Light, of <hi>Grace</hi> his heart.</l>
+               <l>He did not ſeek the Churches <hi>Goods</hi> but <hi>Good:</hi>
+               </l>
+               <l>'Twas <hi>them</hi> not <hi>theirs</hi> he ſought. <hi>O</hi> what a <hi>brood</hi>
+               </l>
+               <l>His ſed'lous <hi>care, love, labour, bred, fed, rais'd!</hi>
+               </l>
+               <l>What earth does hide, in <hi>heaven</hi> will be <hi>prais'd.</hi>
+               </l>
+               <l>Modeſt, mild, meek was he. A gracious grave</l>
+               <l>Pattern and Patron. Souls to ſtrive to ſave</l>
+               <l>He m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de his <hi>work</hi> his wages. Souls to gain</l>
+               <l>He n<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e grutcht <hi>time, labour, life, ſtrength</hi> or <hi>pai<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>To make ſouls <hi>ſtart, ſmart, feel</hi> to heal, he ſpar'd</l>
+               <l>No coſt, no means: let Heav'n <hi>regard, reward.</hi>
+               </l>
+               <l>One while he'd <hi>draw,</hi> then <hi>thunder,</hi> yet anon</l>
+               <l>He'd bring to calm ſouls an <hi>Anodynon.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>carce ſecond to an Angel was his Tongue</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wonder how he tarried here ſo long,</l>
+               <l>When fitted for the Angels company;</l>
+               <l>(That high, that holy, heavenly <hi>Hierarchy</hi>)</l>
+               <l>That he wasn't houſ'd before, but left to ſlay</l>
+               <l>Till ominous ſins did fright this Saint away.</l>
+               <l>Well may the <hi>earth</hi> grow <hi>waſte</hi> when <hi>heav'n</hi> grows <hi>full</hi>
+               </l>
+               <l>The world may <hi>well</hi> grow <hi>bad</hi> when God does <hi>call</hi>
+               </l>
+               <l>And <hi>chooſe</hi> &amp; ſift the good from bad. Lord bare</l>
+               <l>A while, and fetch not till we can ſuch ſpare.</l>
+               <l>What ere thou take, don't take our <hi>ſpiritual bread,</hi>
+               </l>
+               <l>F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om which our eyes have <hi>light,</hi> our ſouls are <hi>fed.</hi>
+               </l>
+               <l>We've loſt a Guild midſt ſinful ſullen times,</l>
+               <l>Which are uneven, and won't ſtand in Rhymes;</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho in home feuds kept an unblas't heart</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich <hi>ſteady</hi> ſtood; nere <hi>faild,</hi> nere <hi>fell</hi> nor, <hi>
+                     <gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>art.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>armleſs himſelf demean'd without Offence:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hewing great <hi>Wiſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om,</hi> yet great <hi>Innocence.</hi>
+               </l>
+               <l>In his <hi>laſt Sermons</hi> Raptures, Ecſtaſies</l>
+               <l>Did him tranſport unto the azure Skies.</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> heard good <hi>Authors</hi> ſay that then were <hi>near</hi> him,</l>
+               <l>That <hi>Angels might come down</hi> &amp; <hi>croud to hear him.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That Worthies leave us to our Overthrow,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe are bad Symptomes of a <hi>future</hi> Blow.</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>xorable Death and Heavens Frown</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uff out our Lights, <hi>Pillars, Poſts, Propps</hi> cut down.</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur happy <hi>Hap, Hope</hi> hopeful, <hi>Help, Joy, Crown</hi>
+               </l>
+               <l>Death's fatal blow (in him) at once cut down.</l>
+               <l>What to the <hi>COTTONs</hi> Stock <hi>N-England</hi> owes</l>
+               <l>Earth cannot tell: in Heaven we ſhall know</l>
+               <l>When ſouls come <hi>there.</hi> The mean while I may ſay,</l>
+               <l>We may <hi>talk</hi> of our debts, tho' we can't pay.</l>
+               <l>Tho' earth has Coſſin'd up moſt of the ſtuds,</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt be the Heavens wee have yet ſome <hi>buds</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſame <hi>Stock.</hi> Heavens waters make them <hi>ſhoot</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſhew the world they came of <hi>COTTONs Root.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſave our ſouls, <hi>Thy</hi> Frowns, <hi>our</hi> Fears remove,</l>
+               <l>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rn away <hi>Wrath</hi> and <hi>Rods,</hi> and give us <hi>Love.</hi>
+               </l>
+            </lg>
+            <byline>
+               <hi>Moeſtus</hi> compoſuit et poſuit</byline>
+            <closer>
+               <signed>Edward Tompſon.</signed>
+            </closer>
+            <epigraph>
+               <q xml:lang="lat">
+                  <l>—<hi>Fretum vitae</hi> gaudente <hi>carina</hi>
+                  </l>
+                  <l>
+                     <hi>tranavit</hi>—tutum <hi>tenet anchora</hi> portu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>Nunc</hi> hilaris <hi>Ventos</hi> ridet <hi>tumidas<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
